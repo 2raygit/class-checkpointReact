@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+button {
+  margin-bottom: 20px;
+  color: rgb(23, 88, 180);
+}
+
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
